@@ -1,6 +1,6 @@
 # NexCRM — Customer Relationship Manager
 
-🔗 Live site: [nexcrm-co.vercel.app](https://nexcrm-co.vercel.app/)
+🔗 **Live site:** [nexcrm-co.vercel.app](https://nexcrm-co.vercel.app/)
 
 ---
 
