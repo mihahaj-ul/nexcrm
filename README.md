@@ -4,15 +4,13 @@
 
 ---
 
-## Tech
+## Technologys
 
-| Technologys  |
-| ------------ |
-| Next js      |
-| TypeScript   |
-| Shad cn      |
-| Recharts     |
-| DnD Kit      |
+| Next js |
+| TypeScript |
+| Shad cn |
+| Recharts |
+| DnD Kit |
 | Lucide-react |
 
 ---
